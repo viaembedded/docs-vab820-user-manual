@@ -108,6 +108,7 @@ Table of Contents
    io_interface.rst
    jumpers.rst
    installation.rst
+   kit.rst
    connectors.rst
 
 Indices and tables
