@@ -582,7 +582,7 @@ primarily used to attach additional COM port for debug purpose. The CAN
 bus can also be supported through this connector. The pinout of the
 connector is shown below.
 
-.. _figure-com :
+.. _figure-com:
 .. figure:: images/com.*
    :align: center
    :alt: COM1/COM2/CAN connector diagram
