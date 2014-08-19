@@ -107,6 +107,7 @@ Table of Contents
    overview.rst
    io_interface.rst
    jumpers.rst
+   installation.rst
 
 Indices and tables
 ==================
